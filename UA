@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<title>UA Megacity RP | Правила</title>
+<style>
+/* Загальні стилі */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(180deg,#000000,#071a07);
+    color: white;
+    text-align: center;
+}
+
+/* Заголовок сайту */
+.header {
+    padding: 50px 20px;
+    font-size: 48px;
+    font-weight: bold;
+    color: #39ff14;
+    text-shadow: 0 0 10px #39ff14;
+}
+
+/* Стиль блоків правил */
+.card {
+    background: rgba(0,255,0,0.08);
+    border: 2px solid #39ff14;
+    border-radius: 20px;
+    padding: 25px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0 0 20px #39ff14;
+    font-size: 20px;
+    transition: transform 0.3s;
+}
+
+/* Анімація при наведенні */
+.card:hover {
+    transform: scale(1.05);
+}
+
+/* Номер правила */
+.number {
+    font-size: 32px;
+    color: #39ff14;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+/* Футер */
+footer {
+    margin-top: 40px;
+    padding: 20px;
+    color: #aaa;
+    font-size: 16px;
+    border-top: 1px solid #39ff14;
+}
+</style>
+</head>
+
+<body>
+
+<div class="header">
+UA MEGACITY RP
+</div>
+
+<div class="card">
+<div class="number">1</div>
+Повага до всіх гравців. Заборонено образи, булінг та токсичність.
+</div>
+
+<div class="card">
+<div class="number">2</div>
+Дотримуйтесь ПДР. Заборонено навмисні ДТП та небезпечну їзду.
+</div>
+
+<div class="card">
+<div class="number">3</div>
+Заборонено використовувати чіти, баги та сторонні програми.
+</div>
+
+<div class="card">
+<div class="number">4</div>
+Слухайтеся адміністрацію сервера.
+</div>
+
+<div class="card">
+<div class="number">5</div>
+Грайте RolePlay і не ламайте атмосферу сервера.
+</div>
+
+<footer>
+© 2026 UA Megacity RP
+</footer>
+
+</body>
+</html>
